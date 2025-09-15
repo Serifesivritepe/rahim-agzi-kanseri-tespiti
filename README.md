@@ -18,8 +18,7 @@ Bu proje, rahim ağzı kanseri hücre örneklerini sınıflandırmak için geli�
    pip install -r requirements.txt
    cd backend
    python app_2.py
-
-http://127.0.0.1:5000/
+   http://127.0.0.1:5000/
 
 
 ## Model Bilgisi
