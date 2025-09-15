@@ -1,0 +1,28 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Venv (hem kökte hem backend'in içinde olabilir)
+venv/
+.venv/
+backend/venv/
+backend/.venv/
+
+# VS Code
+.vscode/
+
+# Env & secrets
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Büyük/üretilen dosyalar
+*.log
+*.tmp
+*.h5
